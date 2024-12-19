@@ -1,5 +1,7 @@
 # Godot Git Build Version Plugin
 
+Access Git information about your build such as tag, commit has, and date, in your Godot 4 project.
+
 # Installation
 
 Clone this repository or download the
