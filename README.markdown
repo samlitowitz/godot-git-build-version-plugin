@@ -11,7 +11,7 @@ Copy the `addons/` folder to your project's root directory.
 
 Open the `Project Settings` dialog, navigate to the `Plugins` tab, and enable the plugin
 
-[!enable the plugin](assets/enable-plugin.png)
+![enable the plugin](assets/enable-plugin.png)
 
 # Usage
 
